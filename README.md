@@ -16,5 +16,5 @@
 # Summary:
 ===
 
-> Through analyzing the spread of weather for this data, we can say that while December is colder it is still possible to run a business focussed on outdoor activities in Hawaii even in colder months. However, it would be better to consider other factors such as the average hours of sunshine per day as an example.  
+> Through analyzing the spread of weather for this data, we can say that while December is colder it is still possible to run a business focussed on outdoor activities even in colder month of December. However, it would be better to consider other factors such as the average hours of sunshine per day as an example.  
 
